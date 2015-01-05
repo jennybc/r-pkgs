@@ -24,7 +24,7 @@ Before R 3.0.0, the only way to create a vignette was with Sweave. This was pain
 
 Switching from Sweave to R Markdown had a profound impact on my use of vignettes. Previously, making a vignette was painful and slow and I rarely did it. Now, vignettes are an essential part of my packages. I use them whenever I need to explain a complex topic, or to show how to solve a problem with multiple steps.
 
-Currently, the easiest way to get R Markdown is to use [RStudio](http://www.rstudio.com/products/rstudio/download/preview/). RStudio will automatically install all of the needed prerequisites. If you don't use RStudio, you'll need to:
+Currently, the easiest way to author vignettes with R Markdown is to use [RStudio](http://www.rstudio.com/products/rstudio/download/preview/). RStudio will automatically install all of the needed prerequisites. If you don't use RStudio, you'll need to:
 
 1. Install the rmarkdown package with `install.packages("rmarkdown")`.
 
